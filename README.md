@@ -5,14 +5,13 @@
 <h1 align="center">Relatório de Absorção de Conteúdo do Curso</h1>
 
 <p align="center">
-  [Curso de JavaScript e TypeScript do básico ao avançado JS/TS
-]
+  Curso de JavaScript e TypeScript do básico ao avançado JS/TS
 </p>
 
 ## Informações Pessoais
 
 - _Nome do Colaborador:_ Victor Hugo Xavier Oliveira
-- _Curso Realizado:_ [www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado]
+- _Curso Realizado:_ www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado
 - _Data de Conclusão do Curso:_ [DATA_DE_CONCLUSAO_DO_CURSO]
 
 ## Instruções
